@@ -10,7 +10,7 @@ const Sidebar = () => {
   ];
 
   return (
-    <Box as="nav" bg="lightGrey" minW="250px" p="4" h="100vh" shadow="md">
+    <Box as="nav" bg="lightGrey" minW="30%" p="4" shadow="lg">
       <VStack spacing={8} align="start">
         <Text fontWeight="bold" fontSize="lg">
           Dashboard

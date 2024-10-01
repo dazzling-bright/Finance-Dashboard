@@ -29,7 +29,6 @@ A responsive and interactive finance dashboard application built using **TypeScr
 │   ├── theme        # Custom Chakra UI theme
 │   ├── App.tsx      # Main app component
 │   ├── index.tsx    # Entry point
-│   └── types        # Type definitions
 └── package.json
 ```
 
