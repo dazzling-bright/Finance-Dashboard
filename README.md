@@ -1,4 +1,3 @@
-
 # **Finance Dashboard 📊**
 
 A responsive and interactive finance dashboard application built using **TypeScript**, **Chakra UI**, **React Router**, and **Zustand**. This application helps you keep track of your income, expenses, and overall financial health in a clean and user-friendly interface.
@@ -42,7 +41,7 @@ A responsive and interactive finance dashboard application built using **TypeScr
 
 ## 💡 **Usage**
 
-1. Open the app in your browser. [Click here](https://www.brightfinancesolution.netlify.app)
+1. Open the app in your browser. [Click here](https://interactivefinancetracker.netlify.app/)
 2. Use the sidebar to navigate between different sections (Overview, Income, Expenses).
 3. Add transactions to track your finances by clicking on "Add Transaction."
 4. The dashboard will display a list of your transactions, helping you monitor your income and expenses.
@@ -57,10 +56,8 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a pull request
 
-
 ## 🌟 **Acknowledgments**
 
 - [Chakra UI](https://chakra-ui.com/) for the beautiful components.
 - [Zustand](https://github.com/pmndrs/zustand) for simple state management.
 - [React](https://reactjs.org/) for being the backbone of this application.
-
